@@ -1,4 +1,5 @@
 @extends('app')
+{{-- @vite('./app.css') --}}
 @section('content')
 <div class="row">
     <div class="col-md-6">
